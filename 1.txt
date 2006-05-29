@@ -1,0 +1,168 @@
+GeoIP-1.3.17        Find the country that any IP address or hostname originates
+apache+mod_ssl-1.3.36+2.8.27 The Apache 1.3 webserver with SSL/TLS functionality
+apr-db42-1.2.2_3    The Apache Group's Portability Library
+arc-5.21o           Create & extract files from DOS .ARC files
+arj-3.10.22         Open-source ARJ
+autoconf-2.59_2     Automatically configure source code on many Un*x platforms 
+automake-1.9.6      GNU Standards-compliant Makefile generator (1.9)
+awstats-6.5_1       Free real-time logfile analyzer to get advanced web statist
+bash-3.1.16         The GNU Project's Bourne Again SHell
+bsdpan-DBIx-Pager-0.02 DBIx::Pager - SQL paging helper.
+bsdpan-WebList-CY-1.00 WebList::CY - Yandex Thematic Index of Citing (TIC) for dom
+clamav-0.88.2_4     Command line virus scanner written entirely in C
+compat4x-i386-5.3_8 A convenience package to install the compat4x libraries
+compat5x-i386-5.4.0.8_5 A convenience package to install the compat5x libraries
+cryptlib-3.2.2      A powerful security programming toolkit
+curl-7.15.3         Non-interactive tool to get files from FTP, GOPHER, HTTP(S)
+cvsup-without-gui-16.1h_2 General network file distribution system optimized for CVS 
+db42-4.2.52_4       The Berkeley DB package, revision 4.2
+expat-2.0.0_1       XML 1.0 parser written in C
+ezm3-1.2_1          Easier, more portable Modula-3 distribution for building CV
+fontconfig-2.3.2_5,1 An XML-based font configuration API for X Windows
+freetype2-2.1.10_3  A free and portable TrueType font rendering engine
+gd-2.0.33_4,1       A graphics library for fast creation of images
+gettext-0.14.5_2    GNU gettext package
+ghostscript-gnu-7.07_15 GNU Postscript interpreter
+glib-2.10.3         Some useful routines of C programming (current stable versi
+gmake-3.80_2        GNU version of 'make' utility
+gnupg-1.4.3         The GNU Privacy Guard
+gsfonts-8.11_2      Fonts used by GNU Ghostscript (or X)
+help2man-1.36.4_1   Automatically generating simple manual pages from program o
+ispell-3.2.06_15    An interactive spelling checker for multiple languages
+jasper-1.701.0_1    An implementation of the codec specified in the JPEG-2000 s
+jbigkit-1.6         Lossless compression for bi-level images such as scanned pa
+jpeg-6b_4           IJG's jpeg compression utilities
+lcms-1.14_1,1       Light Color Management System -- a color management library
+lha-1.14i_6         Archive files using LZSS and Huffman compression (.lzh file
+libdrm-2.0.1_1      Userspace interface to kernel Direct Rendering Module servi
+libfpx-1.2.0.12     Library routines for working with Flashpix images
+libgmp-4.2.1_1      A free library for arbitrary precision arithmetic
+libiconv-1.9.2_2    A character set conversion library
+libltdl-1.5.22      System independent dlopen wrapper
+libmcrypt-2.5.7_2   Multi-cipher cryptographic library (used in PHP)
+libslang-1.4.9      Routines for rapid alpha-numeric terminal applications deve
+libtool-1.5.22_2    Generic shared library support script
+libunrar-3.54_1     Library to work with RAR archivies
+libxml2-2.6.24_1    XML parser library for GNOME
+localedata-5.4      Legacy locale data for FreeBSD 6+
+m4-1.4.4            GNU m4
+mc-4.6.1_3          Midnight Commander, a free Norton Commander Clone
+mm-1.4.0            Shared memory allocation library for pre-forked process mod
+mod_perl-1.29_1     Embeds a Perl interpreter in the Apache server
+mysql-client-5.0.21 Multithreaded SQL database (client)
+mysql-server-5.0.21 Multithreaded SQL database (server)
+neon-0.25.5         An HTTP and WebDAV client library for Unix systems
+p5-AppConfig-1.56   A Perl module for reading configuration files
+p5-Archive-Tar-1.29 Perl module for creation and manipulation of tar files
+p5-Authen-SASL-2.10_1 Perl5 module for SASL authentication
+p5-Bit-Vector-6.4_1 Library of advanced math functions that includes a Perl OO 
+p5-CGI-Ajax-0.694   A module for writing AJAX/DHTML-based web apps
+p5-CGI-Session-4.13 Perl extension for persistent session management
+p5-CGI-modules-2.76 Modules for perl5, for use in writing CGI scripts
+p5-CGI.pm-3.20,1    Simple Common Gateway Interface Class for Perl
+p5-Carp-Clan-5.3    Report errors from perspective of caller of a "clan" of mod
+p5-Class-Accessor-0.25 Automated accessor generation
+p5-Compress-Zlib-1.41 Perl5 interface to zlib compression library
+p5-DBD-mysql50-3.0004 MySQL 5.0 driver for the Perl5 Database Interface (DBI)
+p5-DBI-1.50         The perl5 Database Interface.  Required for DBD::* modules
+p5-Date-Calc-5.4    Gregorian calendar date calculations
+p5-Devel-Symdump-2.0601 A perl5 module that dumps symbol names or the symbol table
+p5-Digest-1.15      Modules that calculate message digests
+p5-Digest-HMAC-1.01 Perl5 interface to HMAC Message-Digest Algorithms
+p5-Digest-MD5-2.36  Perl5 interface to the MD5 algorithm
+p5-Digest-SHA1-2.11 Perl interface to the SHA-1 Algorithm
+p5-Encode-2.17      Provides interfaces between strings and the rest of the sys
+p5-File-NFSLock-1.20 File::NFSLock - perl module to do NFS (or not) locking
+p5-File-Temp-0.16_4 Perl5 module to generate temporary files or directories saf
+p5-GD-2.32          A perl5 interface to Gd Graphics Library version2
+p5-GD-Graph-1.43.07 Graph plotting module for perl5
+p5-GD-Graph3d-0.63  Creates 3D charts with GD::Graph and GD
+p5-GD-TextUtil-0.86 Text utilities for use with GD drawing package
+p5-GSSAPI-0.21      Perl extension providing access to the GSSAPIv2 library
+p5-HTML-Parser-3.54 Perl5 module for parsing HTML documents
+p5-HTML-Tagset-3.10 Some useful data table in parsing HTML
+p5-IO-Socket-SSL-0.97 Perl5 interface to SSL sockets
+p5-IO-String-1.08   Simplified Perl5 module to handle I/O on in-core strings
+p5-IO-Zlib-1.04_1   IO:: style interface to Compress::Zlib
+p5-Image-Info-1.21  Perl module for getting image information
+p5-Image-Size-2.992 Perl5 module to determine the size of images in several com
+p5-Lingua-Ispell-0.07 A Perl module that encapsulates access to the Ispell progra
+p5-MIME-Base64-3.07 Perl5 module for Base64 and Quoted-Printable encodings
+p5-Mail-Sender-0.8.13 Module for sending mails with attachments through an SMTP s
+p5-Mail-SpamAssassin-3.1.1_4 A highly efficient mail filter for identifying spam
+p5-Mail-Tools-1.74  Perl5 modules for dealing with Internet e-mail messages
+p5-Net-1.19,1       Perl5 modules to access and use network protocols
+p5-Net-DNS-0.57     Perl5 interface to the DNS resolver, and dynamic updates
+p5-Net-IP-1.24      Perl extension for manipulating IPv4/IPv6 addresses
+p5-Net-SSLeay-1.30_1 Perl5 interface to SSL
+p5-Net-XWhois-0.90_3 Whois Client Interface for Perl5
+p5-PathTools-3.18   A Perl module for portably manipulating file specifications
+p5-Pod-POM-0.17     POD Object Model
+p5-Scalar-List-Utils-1.18,1 Perl subroutines that would be nice to have in the perl cor
+p5-Storable-2.15    Persistency for perl data structures
+p5-Template-Timer-0.04 Rudimentary profiling for Template Toolkit
+p5-Template-Toolkit-2.14_2 Extensive Toolkit for template processing
+p5-Test-Harness-2.60 Run perl standard test scripts with statistics
+p5-Test-Simple-0.62 Basic utilities for writing tests in perl
+p5-Text-Autoformat-1.13 Automatic and manual text wrapping and reformating formatti
+p5-Text-Iconv-1.4   Perl interface to iconv() codeset conversion function
+p5-Text-Reform-1.11 Manual text wrapping and reformatting
+p5-Tie-DBI-1.01     Perl module implementing Tie hash to a DBI handle
+p5-Time-HiRes-1.87,1 A perl5 module implementing High resolution time, sleep, an
+p5-URI-1.35         Perl5 interface to Uniform Resource Identifier (URI) refere
+p5-Unicode-Map-0.112 Perl class that converts strings to/from 2-byte Unicode UCS
+p5-Unicode-String-2.09 These are experimental Perl5 modules to handle various Unic
+p5-XML-DOM-1.44     Perl module for building DOM Level 1 compliant document str
+p5-XML-Encoding-1.01 A perl module for parsing XML encoding maps
+p5-XML-NamespaceSupport-1.09_1 A simple generic namespace support class
+p5-XML-Parser-2.34_2 Perl extension interface to James Clark's XML parser, expat
+p5-XML-Parser-encodings-1.02 Additional russian encodings for XML::Parser
+p5-XML-RSS-1.10     Perl extension to manage RDF Site Summary (RSS) files
+p5-XML-RegExp-0.03  Regular expressions for XML tokens
+p5-XML-SAX-0.14     Simple API for XML
+p5-XML-Simple-2.14  Trivial API for reading and writing XML (esp config files)
+p5-XML-XPath-1.13   Modules for parsing and evaluating XPath statements
+p5-gettext-1.05_1   Message handling functions
+p5-libwww-5.805     Perl5 library for WWW access
+p5-libxml-0.08      Collection of Perl5 modules for working with XML
+pdflib-6.0.3        A C library for dynamically generating PDF
+pecl-pdflib-2.0.4   A PECL extension to create PDF on the fly
+perl-5.8.8          Practical Extraction and Report Language
+php4-4.4.2_2        PHP Scripting Language (Apache Module and CLI)
+php4-bz2-4.4.2_2    The bz2 shared extension for php
+php4-ctype-4.4.2_2  The ctype shared extension for php
+php4-extensions-1.0 A "meta-port" to install PHP extensions
+php4-gd-4.4.2_2     The gd shared extension for php
+php4-mbstring-4.4.2_2 The mbstring shared extension for php
+php4-mcrypt-4.4.2_2 The mcrypt shared extension for php
+php4-mysql-4.4.2_2  The mysql shared extension for php
+php4-openssl-4.4.2_2 The openssl shared extension for php
+php4-overload-4.4.2_2 The overload shared extension for php
+php4-pcre-4.4.2_2   The pcre shared extension for php
+php4-posix-4.4.2_2  The posix shared extension for php
+php4-session-4.4.2_2 The session shared extension for php
+php4-tokenizer-4.4.2_2 The tokenizer shared extension for php
+php4-xml-4.4.2_2    The xml shared extension for php
+php4-zlib-4.4.2_2   The zlib shared extension for php
+phpMyAdmin-2.8.1    A set of PHP-scripts to manage MySQL over the web
+pkgconfig-0.20_2    A utility to retrieve information about installed libraries
+png-1.2.8_3         Library for manipulating PNG images
+portupgrade-2.0.1_1,1 FreeBSD ports/packages administration and management tool s
+proftpd-1.3.0_2     Highly configurable ftp daemon
+pwgen-1.15_1        A simple password generator
+python-2.4.3        An interpreted object-oriented programming language
+razor-agents-2.81   A distributed, collaborative, spam detection and filtering 
+ru-rus-ispell-0.99g3 New Russian dictionaries for ispell
+ruby-1.8.4_8,1      An object-oriented interpreted scripting language
+ruby18-bdb1-0.2.2   Ruby interface to Berkeley DB revision 1.8x with full featu
+subversion-1.3.1_1  Version control system
+t1lib-5.1.0_1,1     A Type 1 Rasterizer Library for UNIX/X11
+tiff-3.8.2          Tools and library routines for working with TIFF images
+unarj-2.65_1        Allows files to be extracted from ARJ archives
+unzip-5.52_2        List, test and extract compressed files in a ZIP archive
+unzoo-4.4           A zoo archive extractor
+webalizer-2.1.10_6  A web server log file analysis program
+websvn-1.61         Subversion repository web frontend
+wget-1.10.2         Retrieve files from the Net via HTTP and FTP
+xorg-libraries-6.9.0 X11 libraries and headers from X.Org
+zoo-2.10.1_2        Manipulate archives of files in compressed form
